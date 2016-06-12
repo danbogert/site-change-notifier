@@ -1,0 +1,8 @@
+notifier.email.to=emailTo@example.com
+notifier.email.from=emailFrom@example.com
+
+notifier.delay.ms=3600000  # 1 hour
+
+notifier.endpoint=https://example.com
+notifier.comparison.start=<body>
+notifier.comparison.end=</body>
